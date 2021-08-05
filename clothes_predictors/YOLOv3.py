@@ -1,7 +1,7 @@
 
-from yolo.utils.models import *
-from yolo.utils.utils import *
-from yolo.utils.datasets import *
+from clothes_yolo.utils.models import *
+from clothes_yolo.utils.utils import *
+from clothes_yolo.utils.datasets import *
 #from yolo.utils.utils2 import *
 import torch
 from torch.utils.data import DataLoader
